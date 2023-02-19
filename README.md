@@ -1,1 +1,4 @@
-# Skin-Consultation-Center-Console-GUI
+# Skin-Consultation-Center-Console+GUI
+OOP Course work
+Skin Consultation Center
+COnsole+GUI implementation
